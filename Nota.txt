@@ -1,0 +1,3 @@
+Para poder correr coloque la ruta correcta en la 
+Clase Sistema en el metodo  exportarAperturaPDF
+especificamente en la linea 122 de la clase.

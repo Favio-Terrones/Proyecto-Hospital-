@@ -1,0 +1,10 @@
+Para poder correr el aplicativo coloque la ruta correcta de la
+imagen llamada "img" que se encuentra en la carpeta de imagenes
+del proyecto. 
+Esta ruta debe ser cambiada en la Clase 
+Sistema en el metodo  exportarAperturaPDF 
+especificamente en la linea 122 de la clase.
+
+Importar las 2 librerias que pide el programa, estas
+son la itext-5.0.5 y jcalendar-1.4. Ambas estan en la
+carpeta drive del proyecto. 
